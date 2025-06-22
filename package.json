@@ -10,5 +10,13 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"type": "commonjs"
+	"type": "commonjs",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MEGHAJYOT/spotify-clone.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MEGHAJYOT/spotify-clone/issues"
+	},
+	"homepage": "https://github.com/MEGHAJYOT/spotify-clone#readme"
 }
